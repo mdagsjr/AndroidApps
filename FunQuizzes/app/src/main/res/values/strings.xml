@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fun Quizzes</string>
+    <string name="Credits"><![CDATA[Credits given to Coding in Flow Youtube Channel. This app is an adaptation of the tutorial series SQLite Multiple Choice Quiz - Android Studio. See the link: https://www.youtube.com/watch?v=PiCZQg4mhBQ&list=PLrnPJCHvNZuDCyg4Usq2gHMzz6_CiyQO7]]></string>
+
+</resources>
